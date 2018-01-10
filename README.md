@@ -27,9 +27,11 @@ Son erişim tarihi: 9 Ocak 2018
 Deneye başlamadan önce başka insanların yapmış olduğu deneyleri araştırdık ve araştırmalar yaptık. Bu araştırlar sonucunda kullanacağımız yöntem ve metaryelleri belirledik. Bağımsız değişkenlerimizi belirleyip kendi hipotezlerimizi oluşturduk.
 
 2. Deney Ortamı
+
 Deney yaptığımız yer yurt ve bahçe oldu. Bunun nedeni ışık şiddetinin farklı olduğu iki ortama ihtiyacımız olmasıydı. Ayrıca deneyde yanılgılar olmaması için gölge düşme vb. etkileri en aza indirdik. 
  
 3.Deney Malzemeleri
+
 Deney malzemelerini sıralayacak olursak,
 2 adet pet şişe
 2 şişe su
@@ -43,6 +45,7 @@ SwatchMagic adlı uygulamayı indirdiğimiz telefonumuz
 Deneyi grup arkadaşlarımızla birlikte yaptık. Yaklaşık bir saat sürdü.
 
 5. Deney Yapılışı
+
 Öncelikte gölge düşmesini engellediğiniz yatay bir zemin ayarlayıp su ile kumaşları teker teker ıslattık. Daha sonra aynı işlemi tuz döktüğümüz su ile tekrarladık. Bu işlemleri yaparken de SwatchMatic uygulaması yardımıyls kumaşların renginin "Value" değerini ölçtük. Sonuçlarımızı not aldık ve deneyimizi ışığın daha fazla olduğu bahçede tekrardan yaptık ve sonuçlarımızı taplo halinde not aldık.(Bu taployu da deneyin resimleriyle birlikte ekledik)
 
 
