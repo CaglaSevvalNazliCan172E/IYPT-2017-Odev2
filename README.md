@@ -25,11 +25,13 @@ Daha kapsamlı bir ödev için daha önce yapılmış
 # Özet (Abstract)
 WET AND DARK (ISLAK VE KOYU)
 Kıyafetlerimiz herhangi bir sıvı ile temas ettiği zaman bu sıvıyı emer ve renginde değişiklikler meydana gelir. Genellikle rengin koyulaşmasına yol açan bu etki, sıvı buharlaşıncaya veya başkan bir etken tarafından yok oluncaya kadar devam eder. Renk kavramının çok fazla somutluk ifade etmemesiyle birlikte, gerçekte renk ışığın yansımasına bağlıdır. Yani kumaş ya da herhangi bir nesnenin ışığı soğurma ya da yansıtma olaylarının etkisiyle renk kavramı oluşur. Işığın özelliklerinin değişmesiyle gözümüzün algıladığı renk de değişir. Projemizin amacı kumaşın ıslandığı zaman meydana gelen renk değişimlerinin nedenini bulmaktır. Kumaşın ıslanması sonucu kumaş içine bir sıvı hapsetmiş olur ve bu durum da ışığın gözümüze yansıması bakımında çeşitli değişikliklere yol açar. Buna yönelik çeşitli deneyler yaparken aynı zamanda bu renk değişimindeki ton farklılıklarına yönelik de deneyler yapacağız. Islak kumaşın renginin ortamdaki ışık, kumaş rengi, kumaş türü, ışık şiddeti, sıvı değişkeni gibi çeşitli etmenlerin değişmesinden nasıl etkilendiğini gözlemleyeçeğiz. Bu deneylerin sonucunda kıyafetlerın ıslandığı zaman neden renk değiştirdikleri sorusuna cevap bulmayı amaçlıyoruz.
+
 # Giriş (Introduction)
 Yaptığımız projenin amacı kıyafetlerimizin ıslandığı zaman neden renginin koyulaştığını belirlemektir. Bu amaçla daha önceki yapılar çalışmaları da inceleyerek renk algısının değişmesine sebep olan nedenler üzerinde durmaya karar verdik. Bu nedenlerdem başlıcaları ışık şidditiydi. Deneyi yaparken kullandığımız şeffaf sıvının yoğunluğunun renk koyulaşmasını değiştirebileceği yönünde bir hipotezde bulunduk. Bu hipotezde bulunmamızın nedeni ışığın daha fazla madde ile karşılaşması ile kırılma miktarının artıcağını ve yoğunluk arttıkça renk koyulaşmasının da artacağı yönündeydi. 
 Bu gibi sebeplerden yola çıkarak ışık şiddedi, sıvı yoğunluğu ve kumaş rengi gibi değişkenlerden yararlanarak deneyimizi yaşmaya karar verdik.
 
 Kaynakçalar
+
 1.Kruszelnicki, K.S. ''Clothe's Darker When Wet''.ABC. http://www.abc.net.au/science/k2/homework/s95587.htm 
 Son erişim tarihi: 9 Ocak 2018
 
@@ -42,35 +44,27 @@ Son erişim tarihi: 9 Ocak 2018
 4.-,-.''Scientists Discover Why Wem 2017t Soil Is Dark''. Scottish Sceptic. http://scottishsceptic.co.uk/2011/04/01/scientists-discover-why-wet-soil-is-dark/ 
 Son erişim tarihi: 9 Ocak 2018
 # Materyal ve Yöntem (Experimental Setup)
+1. Deneye Başlamadan Önce Veri Toplama
+Deneye başlamadan önce başka insanların yapmış olduğu deneyleri araştırdık ve araştırmalar yaptık. Bu araştırlar sonucunda kullanacağımız yöntem ve metaryelleri belirledik. Bağımsız değişkenlerimizi belirleyip kendi hipotezlerimizi oluşturduk.
+2. Deney Ortamı
+Deney yaptığımız yer yurt ve bahçe oldu. Bunun nedeni ışık şiddetinin farklı olduğu iki ortama ihtiyacımız olmasıydı. Ayrıca deneyde yanılgılar olmaması için gölge düşme vb. etkileri en aza indirdik. 
+ 
 
-Bu bölümde aşağıdaki kısımla
-ra ve alt başlıklara yer verilir
+3.Deney Malzemeleri
+Deney malzemelerini sıralayacak olursak,
 
-* Çalışmanın yöntemi veya araştırma deseni,
-* Çalışma  grubunuz,  evreniniz,  örnekleminiz 
-(çalışmanızda  kişilerden  veri  toplamışsanız),  çalışma 
-sahanız, yeriniz ve bunların özellikleri,
-* Veri toplama araçlarınızın neler olduğu, onları  siz geliştirdiyseniz bunu nasıl yaptığınız ve  veri 
-toplama süreciniz,
-* Gözlemlerinizi, saha çalışmalarınızı ve bu
-nları nasıl gerçekleştirdiğiniz, verileri nasıl analiz ettiğiniz ve 
-bunun için hangi araç ya da yazılımları kullandığınız,
-* Deney düzenekleri, malzemeleri ve deneysel süreçleri (deneysel bir çalışma ise)
+2 adet pet şişe
+2 şişe su
+Bol miktarda tuz
+4 farklı renkte kıyafet
+Aynı açıyla fotoğraf çekmek için kullandığımız sabitleyici eşyalar ve cetvel
+SwatchMagic adlı uygulamayı indirdiğimiz telefonumuz
 
-Deneysel çalışmalarda deney düzeneği, verilerin nasıl toplandığı açıkça anlatılmalıdır. Deney düzeneğindeki 
-önemli ölçüm cihazlarının (ne olduğu, ölçüm aralığı, duyarlılığı vb.) kimyasal ve biyolojik malzemenin temel 
-özellikleri  belirtilmelidir.  
+4. Deneyi Yapanlar ve Deneyin Ne Kadar Sürdüğü
+Deneyi grup arkadaşlarımızla birlikte yaptık. Yaklaşık bir saat sürdü.
 
-Örneğin  bir voltmetre  kullanılıyorsa  bunun  ölçme  aralığı 0-220V, iç impedansı 10 Mohm olan bir voltmetre olarak belirtilmesi, ya da optik özellikleri incelenen bir cam 
-levhanın 25 mmx10 mmx1 mm boyutlarında, görünür bölgedeki ışığı geçiren bir cam plaka şeklinde tanımlanması 
-uygun olacaktır. 
+5. Deney Yapılışı
 
-* Deneylerin nerede, kimler tarafından yapıldığı, ne kadar sürdüğü ve kaç kez hangi koşullar altında 
-tekrarlandığı gibi bilgilerin açık, öz ve anlaşılır bir şekilde verilmesi gerekir. Bu kısımd
-a çalışılan 
-laboratuvarın özellikleri de belirtilmelidir. 
-
-* Kullanılan analiz ve hesaplamalar bu bölümde verilmelidir.
 
 # Bulgular (Results)
 Burda yaptığınız başlangıç deneyinin sonuçlarını yazacaksınız. Yapacağınız deneyinin başarılı veya başarısız olması önemli değildir. 10 Mayıs 2017'ye kadar projeyinizi geliştirmeniz için izin verilecektir. Fakat yapacağınız IYPT projeniz için bir başlangıç yapmanız gerekmektedir. Basit bir deney olsun ve çok bir zamanını almasın. Yaptığınız deneyin birkaç resmini buraya ekleyiniz ve sonuçları kısaca açıklayın. İleride deneyinizi nasıl geliştereceğinizi anlatın. 
